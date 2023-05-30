@@ -1,0 +1,11 @@
+{
+  "name": "AttackOntitanCopy",
+  "uuid": "ff0c01c5-9e3a-4376-a821-a8e7405ff6db",
+  "version": "3.6.2",
+  "creator": {
+    "version": "3.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.0"
+  }
+}

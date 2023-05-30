@@ -1,0 +1,16 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "raycastMesh"
+      }
+    ]
+  }
+}
